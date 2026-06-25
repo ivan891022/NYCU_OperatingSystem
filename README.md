@@ -164,8 +164,8 @@ exams/2026/2026_second_exam.pdf
 ### Third Regular Written Exam
 
 **Date:** 2026-06-10  
-**My Score:** TBD  
-**Class Average:** TBD  
+**My Score:** 95 / 119  
+**Class Average:** 82.9 / 119 
 
 **Suggested scope:**
 
